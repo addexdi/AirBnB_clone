@@ -13,6 +13,7 @@ The users like the administrator of the app Airbnb clone has the posibility of t
 ![alt text](https://i.ibb.co/RSzZ5yh/815046647d23428a14ca.png)
 
 
+B
 ## Requirements
 
 
@@ -47,6 +48,7 @@ The users like the administrator of the app Airbnb clone has the posibility of t
     All your classes should have a documentation (python3 -c 'print(__import__("my_module").MyClass.__doc__)')
     All your functions (inside and outside a class) should have a documentation (python3 -c 'print(__import__("my_module").my_function.__doc__)' and python3 -c 'print(__import__("my_module").MyClass.my_function.__doc__)')
     We strongly encourage you to work together on test cases, so that you don’t miss any edge 
+ B
  
  
 ## Installation
