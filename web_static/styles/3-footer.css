@@ -1,10 +1,16 @@
-.footer{
-			
-			color: #000;
-			height: 70px;
-			width: 100%;
-			border-top: 1px #CCCCCC;
-			text-align: center;
-			left: 20px;
-			padding-bottom: 10px
-		}
+footer {
+    position: fixed;
+    background: #FFF;
+    height: 60px;
+    width: 100%;
+    bottom: 0;
+    border: 1px solid #CCCCCC;
+}
+footer p {
+    position: absolute;
+    text-align: center;
+    top: 10%;
+    bottom: 0;
+    right: 0;
+    left: 0;
+}
