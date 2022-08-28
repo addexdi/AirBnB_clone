@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {
   margin: 0;
   color: #484848;
@@ -12,3 +13,16 @@ div.container {
   margin: 30px;
   margin-inline: auto;
 }
+=======
+body{
+	margin:0;padding: 0;
+	font-color: #484848;
+	font-size: 14px;
+	font-family: Circular,"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+body .container {
+    max-width: 1000px;
+    margin: 30px auto;
+}
+>>>>>>> c331e0998a0928fd4dbeeb45345fffaa93cce776

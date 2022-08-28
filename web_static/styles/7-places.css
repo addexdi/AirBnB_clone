@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .container section.places {
   padding: 0 20px;
   display: flex;
@@ -22,4 +23,40 @@ section.places article {
   margin: 20px;
   border: 1px solid #ff5a5f;
   border-radius: 4px;
+=======
+/*
+ * === Places class style ===
+ */
+
+/* Places style */
+.places article {
+  border: 1px solid #ff5a5f;
+  border-radius: 4px;
+  display: inline-block;
+  margin: 20px;
+  padding: 20px;
+  width: 390px;
+}
+
+/*
+ * --- Places header style ---
+ */
+
+/* Header 1 style */
+.places h1 {
+  font-size: 30px;
+  font-weight: bold;
+  margin: .67em 0 .67em 0;
+  width: 100%;
+}
+
+/* Header 2 style */
+.places h2 {
+  font-size: 30px;
+  font-weight: bold;
+  text-align: center;
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+>>>>>>> c331e0998a0928fd4dbeeb45345fffaa93cce776
 }
